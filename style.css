@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+    color: #121212;
+
+}
+.stadium{
+    width: 380px;
+}
+
+.content-news{
+    font-style: italic;
+    font-family: fantasy;
+}
+
+input{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 250px;
+    border: 3px solid #121212;
+}
+
+button{
+    color: aliceblue;
+    background-color: #121212;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 10px;
+    width: 250px;
+    border: 3px solid #121212;
+}
+
+.terms{
+    font-style: italic;
+    font-family: fantasy;
+    margin-top: 20px;
+}
+
+a{
+    color: aqua;
+}
